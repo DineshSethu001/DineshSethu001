@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Dinesh</h1>
 <h3 align="center">A passionate in Python Full Stack Developer from India</h3>
 click here
-[https://dineshsethu001.github.io/Personal-portfolio/](https://dineshsethu001.github.io/Port_u_html_css/)
+(https://dineshsethu001.github.io/Port_u_html_css/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshsethu001&label=Profile%20views&color=0e75b6&style=flat" alt="dineshsethu001" /> </p>
 
