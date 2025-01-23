@@ -23,13 +23,13 @@ click here and still working on it
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Pandas**
+- 
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **dineshsethu15981@gmail.com**
 
-- 📄 Know about my experiences [Fresher](Fresher)
+- 📄 Know about my experiences [1.5 years]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
