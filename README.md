@@ -23,15 +23,13 @@ click here and still working on it
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 
-
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **dineshsethu15981@gmail.com**
 
 - 📄 Know about my experiences [1.5 years]
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><a href="https://www.linkedin.com/in/dinesh-thanigaivel/">Connect with me:</a></h3>
 <p align="left">
 <a href="https://linkedin.com/in/dinesh-thanigaivel1598" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinesh-thanigaivel1598" height="30" width="40" /></a>
 </p>
