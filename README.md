@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Dinesh</h1>
 <h3 align="center">A passionate in Python Full Stack Developer from India</h3>
 click here and still working on it
-(https://dineshsethu001.github.io/Dinesh_portfolio/)
+(https://stellular-mooncake-f74d8d.netlify.app/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshsethu001&label=Profile%20views&color=0e75b6&style=flat" alt="dineshsethu001" /> </p>
 
