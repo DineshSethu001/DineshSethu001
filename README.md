@@ -13,7 +13,6 @@
 - 💬 Ask me about **React, Node.js, MongoDB, or Full Stack Development**  
 - 👯 I love collaborating on **Open Source Projects**  
 - 📫 Reach me at **dineshsethu15981@gmail.com**  
-- ⚡ Fun fact: I started from non-IT background — now I’m coding full-time with passion 💻  
 
 ---
 
