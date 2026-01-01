@@ -40,6 +40,8 @@
 </p>
 
  
+---
+🧠 Practices: Agile / Scrum, Clean Code, REST API Design
 
 ---
 
