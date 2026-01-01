@@ -32,7 +32,7 @@
 
 **Tools & Practices:**  
 <img src="https://skillicons.dev/icons?i=git,linux,postman" />  
-🧠 Agile / Scrum • Redux Toolkit
+🧠 Agile / Scrum 
 
 ---
 
@@ -43,9 +43,3 @@
 
 👉 More projects: https://wonderful-arithmetic-04c1d9.netlify.app/
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DineshSethu001&show_icons=true&theme=github_dark" />
-</p>
