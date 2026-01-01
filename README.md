@@ -17,31 +17,22 @@
 
 ---
 
+
+
 ### 🧰 Tech Stack
 
-<p align="center">
-  <b>Frontend</b><br/>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
-</p>
+**Frontend:**  
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,redux" />
 
-<p align="center">
-  <b>Backend</b><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
-</p>
+**Backend:**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,php" />
 
-<p align="center">
-  <b>Database</b><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
+**Databases:**  
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
 
-<p align="center">
-  <b>Tools</b><br/>
-  <img src="https://skillicons.dev/icons?i=git,linux,postman" />
-</p>
-
- 
----
-🧠 Practices: Agile / Scrum, Clean Code, REST API Design
+**Tools & Practices:**  
+<img src="https://skillicons.dev/icons?i=git,linux,postman" />  
+🧠 Agile / Scrum • Redux Toolkit
 
 ---
 
