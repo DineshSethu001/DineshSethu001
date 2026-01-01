@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Dinesh 👋</h1>
 <h3 align="center">Full Stack MERN & Python Developer</h3>
-[Portfolio](https://wonderful-arithmetic-04c1d9.netlify.app/){:target="_blank"}
 
 
 <p align="center">
