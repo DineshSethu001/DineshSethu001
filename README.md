@@ -19,17 +19,26 @@
 
 ### 🧰 Tech Stack
 
-**Frontend:**  
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+<p align="center">
+  <b>Frontend</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+</p>
 
-**Backend:**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+<p align="center">
+  <b>Backend</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+</p>
 
-**Database:**  
-<img src="https://skillicons.dev/icons?i=mongodb" />
+<p align="center">
+  <b>Database</b><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
-**Tools:**  
-<img src="https://skillicons.dev/icons?i=git,linux,postman" />
+<p align="center">
+  <b>Tools</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,linux,postman" />
+</p>
+
  
 
 ---
