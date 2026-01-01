@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://wonderful-arithmetic-04c1d9.netlify.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/dinesh-thanigaivel/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/dinesh-thanigai/">LinkedIn</a> •
   <a href="mailto:dineshsethu15981@gmail.com">Email</a>
 </p>
 
