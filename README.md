@@ -18,10 +18,19 @@
 ---
 
 ### 🧰 Tech Stack
-**Frontend:** React, JavaScript, HTML, CSS, Tailwind  
-**Backend:** Node.js, Express, Python  
-**Database:** MongoDB  
-**Tools:** Git, Linux, Postman  
+
+**Frontend:**  
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+
+**Backend:**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+
+**Database:**  
+<img src="https://skillicons.dev/icons?i=mongodb" />
+
+**Tools:**  
+<img src="https://skillicons.dev/icons?i=git,linux,postman" />
+ 
 
 ---
 
