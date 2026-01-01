@@ -62,6 +62,9 @@
 
 
 ![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DineshSethu001&show_icons=true&theme=radical)
+## 🧠 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DineshSethu001&layout=compact&theme=radical)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DineshSethu001&show_icons=true&theme=radical&hide_border=true" height="170"/>
