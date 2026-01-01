@@ -57,31 +57,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-
-
-![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DineshSethu001&show_icons=true&theme=radical)
-## 🧠 Most Used Languages
-
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=DineshSethu001&layout=compact&theme=radical)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DineshSethu001&theme=radical)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DineshSethu001&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshSethu001&layout=compact&theme=radical&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DineshSethu001&theme=radical&hide_border=true"/>
-</p>
 
 ---
 
