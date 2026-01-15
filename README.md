@@ -42,5 +42,5 @@
 - **Task Manager API** – Node.js + MongoDB CRUD app  
 - **Portfolio Website** – React + Tailwind  
 
-👉 More projects: https://wonderful-arithmetic-04c1d9.netlify.app/
+👉 More projects: https://github.com/DineshSethu001?tab=repositories
 
