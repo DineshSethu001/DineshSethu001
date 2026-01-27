@@ -18,13 +18,7 @@
 - Open to **Junior / Entry-Level / Trainee Developer roles**
 
 ---
-### 🚀 Projects
-- **MERN Chat App** – Auth, real-time messaging, REST APIs  
-- **Car Rental website** – Node.js + React js
-- **Portfolio Website** – React + Tailwind  
-- **Chrome Extension** – Built using React.js for browser-based decision support  
-
-👉 More projects: https://github.com/DineshSethu001?tab=repositories
+👉 My New created Extension Link:-https://chromewebstore.google.com/detail/decision-helper/pahienifdfnpoklcnfcbbiipdlmgijjk?hl=en-US&utm_source=ext_sidebar
 
 
 ### 🧰 Tech Stack
@@ -43,11 +37,13 @@
 🧠 Agile / Scrum 
 
 ---
-
 ### 🚀 Projects
 - **MERN Chat App** – Auth, real-time messaging, REST APIs  
-- **Task Manager API** – Node.js + MongoDB CRUD app  
+- **Car Rental website** – Node.js + React js
 - **Portfolio Website** – React + Tailwind  
+- **Chrome Extension** – Built using React.js for browser-based decision support  
 
 👉 More projects: https://github.com/DineshSethu001?tab=repositories
+
+
 
