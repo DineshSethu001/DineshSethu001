@@ -13,11 +13,18 @@
 ### 👨‍💻 About Me
 - Full Stack Developer with hands-on experience in **MERN Stack**
 - Strong in **REST APIs, Authentication, CRUD, and Deployment**
+- Created a **Chrome Extension using React.js** for decision support / productivity (you can adjust purpose)
 - Actively learning **AWS, Render & GenAI-based apps**
 - Open to **Junior / Entry-Level / Trainee Developer roles**
 
 ---
+### 🚀 Projects
+- **MERN Chat App** – Auth, real-time messaging, REST APIs  
+- **Car Rental website** – Node.js + React js
+- **Portfolio Website** – React + Tailwind  
+- **Chrome Extension** – Built using React.js for browser-based decision support  
 
+👉 More projects: https://github.com/DineshSethu001?tab=repositories
 
 
 ### 🧰 Tech Stack
