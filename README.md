@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <a href="https://profile-chminjcav-rulerds-projects.vercel.app/" target="_blank">Portfolio</a> •
+  <a href="https://nextjs-profile-plum.vercel.app/" target="_blank">Portfolio</a> •
   <a href="https://www.linkedin.com/in/dinesh-thanigai/"     target="_blank">LinkedIn</a> •
   <a href="mailto:dineshsethu15981@gmail.com">Email</a>
 </p>
